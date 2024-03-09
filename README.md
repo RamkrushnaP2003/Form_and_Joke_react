@@ -6,4 +6,4 @@ Learn Joker API call and fetching
 
 # Follow this link
 
-randomjoque.netlify.app
+https://randomjoque.netlify.app/
